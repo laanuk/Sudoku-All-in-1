@@ -1,6 +1,6 @@
 Sudoku-All-in-1
 ===============
 # 
- -  Generate and solves randomly generated puzzles. 
- - Solves user-entered puzzles and checks for validity
- - Each puzzle has only one solution
+ - Generates and solves randomly generated puzzles. 
+ - Can solve puzzles entered in by user 
+ - Each puzzle has exactly one solution
